@@ -1,0 +1,17 @@
+.gridtitleheader{
+    color: "white";
+    border: "2px red solid";
+}
+.cardgrid{
+    position: absolute;
+    margin-top: 150px;
+    /* padding-left: 12%; */
+  
+    width: 99vw;
+     
+}
+
+body{
+    overflow-x: hidden;
+}
+
